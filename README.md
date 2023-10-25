@@ -19,6 +19,7 @@ Game Rules:
 
 5.If the player makes a mistake by pressing the wrong button or in the wrong order and the game ends.
 
+
 Join the fun and challenge your memory! Play now and put your memory skills to the test!
 
 https://ishaangaba.github.io/Simon-Game/
