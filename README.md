@@ -1,5 +1,6 @@
 # Simon-Game
 
+
 The Simon game is a classic electronic memory game designed to test and improve a player's memory and concentration skills. 
 
 The Simon game typically consists of a circular console with four large, colored buttons. Each button represents a unique color: red, blue, green, and yellow. The console also features a built-in speaker.
@@ -17,3 +18,7 @@ Game Rules:
 4.If the player replicates the sequence correctly, the game advances to the next level, which adds a new color to the sequence, making it longer.
 
 5.If the player makes a mistake by pressing the wrong button or in the wrong order and the game ends.
+
+Join the fun and challenge your memory! Play now and put your memory skills to the test!
+
+https://ishaangaba.github.io/Simon-Game/
